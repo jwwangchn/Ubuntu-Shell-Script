@@ -1,4 +1,5 @@
-# set root password
+
+set root password
 sudo passwd
 
 # update source
